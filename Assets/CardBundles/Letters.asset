@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44fa31adf81490343b1a0eb820fa9cfe, type: 3}
+  m_Name: Letters
+  m_EditorClassIdentifier: 
+  _cardData:
+  - _identifier: A
+    _sprite: {fileID: 21300000, guid: b7919981853f63c40b1111ddcff6bbee, type: 3}
+  - _identifier: B
+    _sprite: {fileID: 21300000, guid: 9d4e03257d5ed80419428893b9b64ff9, type: 3}
+  - _identifier: C
+    _sprite: {fileID: 21300000, guid: b46ee1c716a68674bb1a0942719f428c, type: 3}
+  - _identifier: D
+    _sprite: {fileID: 21300000, guid: 0838a7e49cfaf4d4e8439b25a1302503, type: 3}
+  - _identifier: E
+    _sprite: {fileID: 21300000, guid: 2b6a6f9bb3adede479ef133d46cd8d23, type: 3}
+  - _identifier: F
+    _sprite: {fileID: 21300000, guid: 787133a8d436015428e90a0c4f326ed1, type: 3}
+  - _identifier: G
+    _sprite: {fileID: 21300000, guid: 73ee9c87d5d61994b86413b7befcbd70, type: 3}
+  - _identifier: H
+    _sprite: {fileID: 21300000, guid: 35bb72eb53e63d247af98d27a743efdc, type: 3}
+  - _identifier: I
+    _sprite: {fileID: 21300000, guid: f3e6748e824db9f4c8fc23a0b69e21b2, type: 3}
+  - _identifier: J
+    _sprite: {fileID: 21300000, guid: 28bd523e85ed6894687a6e15d9822408, type: 3}
+  - _identifier: K
+    _sprite: {fileID: 21300000, guid: b49a026a97d68974db8d1191ab73a60c, type: 3}
+  - _identifier: L
+    _sprite: {fileID: 21300000, guid: 675f3f5268c714d4c9fcbc459925f8fc, type: 3}
+  - _identifier: M
+    _sprite: {fileID: 21300000, guid: b871b5538811dfe478b6ba509e819953, type: 3}
+  - _identifier: N
+    _sprite: {fileID: 21300000, guid: 9835535ccecf9bc458d6c48c40ccdcf1, type: 3}
+  - _identifier: O
+    _sprite: {fileID: 21300000, guid: a96d9ccbb0882f94e8fef99e568dcc51, type: 3}
+  - _identifier: P
+    _sprite: {fileID: 21300000, guid: 862b255a07c1d6c4cad39323f835c74c, type: 3}
+  - _identifier: Q
+    _sprite: {fileID: 21300000, guid: 992a86b64bdecdb4cbffc72d72db927c, type: 3}
+  - _identifier: R
+    _sprite: {fileID: 21300000, guid: b49a7bc27afdcac46b8826764bebc2d4, type: 3}
+  - _identifier: S
+    _sprite: {fileID: 21300000, guid: 8104f7e5491a0f643bacf203cfab7648, type: 3}
+  - _identifier: T
+    _sprite: {fileID: 21300000, guid: 06f373b90688c2b48b78a44bb6c9b8aa, type: 3}
+  - _identifier: U
+    _sprite: {fileID: 21300000, guid: 7565fdcae4a734b4986989fcfba9736b, type: 3}
+  - _identifier: V
+    _sprite: {fileID: 21300000, guid: b01a212b07b1ce24aa5c48d3c683c311, type: 3}
+  - _identifier: X
+    _sprite: {fileID: 21300000, guid: d582ef25a8dca1a4ab7a0345ef0ccfe2, type: 3}
+  - _identifier: Y
+    _sprite: {fileID: 21300000, guid: 3da5b5576ca424c4ea9cd1f78ae56577, type: 3}
+  - _identifier: Z
+    _sprite: {fileID: 21300000, guid: 625a57fe6718fb04eb1969638930bd9e, type: 3}
